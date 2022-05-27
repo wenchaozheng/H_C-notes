@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-	//11行输出hello world
+	//17行输出hello world
 	cout << "hello world" << endl;
 
 	system("pause");
