@@ -1,19 +1,19 @@
 #include <iostream>
 using namespace std;
 
-//µ¥ĞĞ×¢ÊÍ
+//å•è¡Œæ³¨é‡Š
 
-/*¶àĞĞ×¢ÊÍ*/
+/*å¤šè¡Œæ³¨é‡Š*/
 
 /*
-	mainÊÇÒ»¸ö³ÌĞòµÄÈë¿Ú
-	Ã¿¸ö³ÌĞò¶¼ÓĞ
-	ÓĞÇÒ½öÓĞÒ»¸ö
+	mainæ˜¯ä¸€ä¸ªç¨‹åºçš„å…¥å£
+	æ¯ä¸ªç¨‹åºéƒ½æœ‰
+	æœ‰ä¸”ä»…æœ‰ä¸€ä¸ª
 */
 
-int main1()
+int main()
 {
-	//11ĞĞÊä³öhello world
+	//11è¡Œè¾“å‡ºhello world
 	cout << "hello world" << endl;
 
 	system("pause");
